@@ -1,0 +1,2 @@
+module CookingGroupsHelper
+end

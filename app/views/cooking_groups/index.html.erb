@@ -1,0 +1,9 @@
+<h1>Kochgruppen</h1>
+
+<ul>
+    <% @cooking_groups.each do |group| %>
+        <li>
+            <%= link_to group.name, group %>
+        </li>
+    <% end %>
+</ul>

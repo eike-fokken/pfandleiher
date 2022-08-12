@@ -1,0 +1,2 @@
+class PackingLane < ApplicationRecord
+end

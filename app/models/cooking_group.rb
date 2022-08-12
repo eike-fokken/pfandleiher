@@ -1,0 +1,2 @@
+class CookingGroup < ApplicationRecord
+end
