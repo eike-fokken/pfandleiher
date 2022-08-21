@@ -1,0 +1,2 @@
+class IssuableArticleController < ApplicationController
+end
